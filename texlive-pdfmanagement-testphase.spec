@@ -1,6 +1,6 @@
 Name:		texlive-pdfmanagement-testphase
-Version:	64931
-Release:	2
+Version:	68879
+Release:	1
 Summary:	LaTeX PDF management testphase bundle
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pdfmanagement-testphase
