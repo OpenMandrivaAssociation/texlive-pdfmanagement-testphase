@@ -1,5 +1,5 @@
 Name:		texlive-pdfmanagement-testphase
-Version:	72182
+Version:	72677
 Release:	1
 Summary:	LaTeX PDF management testphase bundle
 Group:		Publishing
